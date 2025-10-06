@@ -89,15 +89,14 @@ body {
 }
 
 .text {
-       position: absolute;
+           position: absolute;
     text-align: center;
     font-family: cursive;
-    font-size: 10px;
+    font-size: 16px;
     line-height: 16px;
-    top: 44px;
-    left: 19px;
+    top: 93px;
+    left: 1px;
     color: #003049;
-}
 
 .heart {
        background-color: #d62828;
@@ -269,4 +268,5 @@ body {
     top: 85px;
     position: relative;
     left: 91px;
+
 }
